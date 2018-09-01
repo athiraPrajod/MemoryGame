@@ -1,5 +1,5 @@
 # MemoryGame
-Just another memory game using Python and MySQL
+Grid style memory game using Python and MySQL
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 Stages complete :
